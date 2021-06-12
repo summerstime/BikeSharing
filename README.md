@@ -11,22 +11,31 @@
 	- Most active time for checkout out a bike is within the first hour. 
 - Checkout Times by Gender
 	- The distinction of gender shows that males are the majority of users and tend to have longer trip durations.
+	- ![Checkout Gender](https://github.com/summerstime/BikeSharing/blob/main/Images/CheckoutGender.PNG)
 - Trips by Weekday per Hour
 	- The heatmap shows the majority of activity is during the week at about 8am and 5 to 7pm. Saturday from 11am to 6pm is also very popular.
+	- ![Trips Weekday by Hour](https://github.com/summerstime/BikeSharing/blob/main/Images/TripsWeekdayHr.PNG)
 - Trips by Gender (Weekday per Hour)
 	- This heatmap shows a similar result as the prior except it breaks it down by gender.
+	- ![Trips Weekday by Gender](https://github.com/summerstime/BikeSharing/blob/main/Images/WeekdayGender.PNG)
 - User Trips by Gender by Weekday
 	- This heatmap shows that most users are male subscribers.
-- Starting stations
-	- This shows different starting points around the city.
-- Stopping stations
-	- This shows different ending/drop-off points around the city.
+	- ![Trips Weekday by User](https://github.com/summerstime/BikeSharing/blob/main/Images/UserWeekday.PNG)
+- Starting and Stopping Stations
+	- The combined worksheets show the different stations around the city. There are color and size distinctions for the more active sites.
+	- ![Starting and Stopping Stations](https://github.com/summerstime/BikeSharing/blob/main/Images/StartStopStations.PNG)
 - Birth Year
 	- This bar graph shows the birth year of users based on gender. The highest point shows that a majority of users are older than 30. 
+	- ![Des Moines Birth Year](https://github.com/summerstime/BikeSharing/blob/main/Images/BirthYear.PNG)
 - Popular Stations
 	- This is a comparison of the Top 10 Starting Stations and their Top 5 Ending Stations. It shows the most active stations and also provides User Type.
+	- In the dashboard, it shows the top 10 starting stations and the top 5 ending stations.
+	- This helps determine where the surplus and shortage of bikes could be throughout the city.
+	-![Popular Stations](https://github.com/summerstime/BikeSharing/blob/main/Images/PopularStations.PNG)
+
 * From some of those worksheets, a dashboard was created. This dashboard focusses on the activity of the system, users (age, gender, subscriber), station popularity, time (weekday, hour, duration).
-![Des Moines Dashboard](//github.com/summerstime/BikeSharing/blob/main/Images/Dashboard.png)
+![NYC Bike Share Dashboard](https://github.com/summerstime/BikeSharing/blob/main/Images/Dashboard.PNG)
+
 
 #### Des Moines Data
 * Data about Des Moines was also gathered to compare and contrast the population in the city.
@@ -37,8 +46,7 @@
 * This website shows many available trails to sustain a bike sharing option for users.
 [Des Moines Trails](https://dmampo.maps.arcgis.com/apps/webappviewer/index.html?id=c48776f60395490eb3029f5b29fc7b88)
 
-* In the dashboard, it shows the top 10 starting stations and the top 5 ending stations.
-* This helps determine where the surplus and shortage of bikes could be through the city.
 
-[Bike Share Dashboard](https://public.tableau.com/views/Mod14Challenge-BikeShareNYC/AllDash?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+[Bike Share Dashboard on Tableau Public](https://public.tableau.com/views/Mod14Challenge-BikeShareNYC/AllDash?:language=en-US&:display_count=n&:origin=viz_share_link)
 
